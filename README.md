@@ -6,7 +6,7 @@ Team Members: Daichi Ishikawa, Liang Gong, Haoran Zheng
 
 - **User Interface:** [https://rag-uchicago-website.streamlit.app/](https://rag-uchicago-website.streamlit.app/)
 
-
+![UI](images/ui_sample.png)
 
 # Main Architecture
 
