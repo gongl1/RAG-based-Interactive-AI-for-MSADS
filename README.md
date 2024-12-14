@@ -12,3 +12,4 @@ Team Members: Daichi Ishikawa, Liang Gong, Haoran Zheng
 
 Through the use of metadata-driven routing and RAG fusion techniques, we achieved high performance in question answering.
 
+![main_architecture](images/main_architecture.png)
